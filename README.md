@@ -46,10 +46,9 @@ atividade-html/
 │   ├── home.p.jpg      # Imagem ilustrativa da página inicial
 │   └── icon.ico        # Ícone do site (favicon)
 │
+└── css/                # Folhas de estilo do projeto
+    └── estilo.css      # Arquivo principal de estilização
 
-
-
-    
 
 
 
